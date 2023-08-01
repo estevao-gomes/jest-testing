@@ -10,3 +10,25 @@ exports[`changes the class when hovered 1`] = `
   Facebook
 </a>
 `;
+
+exports[`changes the class when hovered 2`] = `
+<a
+  className="hovered"
+  href="www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;
+
+exports[`changes the class when hovered 3`] = `
+<a
+  className="normal"
+  href="www.facebook.com"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Facebook
+</a>
+`;

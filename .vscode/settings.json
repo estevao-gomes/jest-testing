@@ -1,0 +1,6 @@
+{
+    "eslint.workingDirectories": [
+        "./jest-learning",
+        "./with-jest-app"
+    ]
+}
